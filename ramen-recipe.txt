@@ -1,0 +1,12 @@
+Ingredients:
+ - 1 package of ramen
+ - 3 cups of boiling water
+ - 1 seasoning package
+
+Directions:
+ 1. Boil 3 cups of water
+ 2. Remove package and seasoning package from ramen
+ 3. Throw ramen into boiling water
+ 4. Throw in contents of seasoning package
+ 5. Drain water when noodles are soft
+ 6. Enjoy!
